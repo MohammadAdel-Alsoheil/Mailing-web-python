@@ -1,0 +1,11 @@
+textarea {
+    min-height: 400px;
+}
+
+
+#header{
+    border: 1px solid black;
+    padding: 3px 3px 3px 3px;
+    margin-bottom: 4px;
+}
+
